@@ -1,0 +1,36 @@
+/* General Styles for Footer */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+footer {
+    background-color: #333; /* Dark background for contrast */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 20px 0; /* Top and bottom padding */
+    position: relative; /* Position relative for possible future use */
+    bottom: 0; /* Align footer to the bottom of the page */
+    width: 100%; /* Full width to cover the bottom */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for separation */
+}
+
+/* Responsive Styling for Footer */
+@media (max-width: 768px) {
+    footer {
+        padding: 15px 0; /* Slightly less padding on smaller screens */
+    }
+
+    footer p {
+        font-size: 0.9em; /* Slightly smaller text on smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    footer {
+        padding: 10px 0; /* Even less padding on very small screens */
+    }
+
+    footer p {
+        font-size: 0.8em; /* Further reduce text size */
+    }
+}
