@@ -2,7 +2,7 @@
 
 # 🎮 TechStore - Free Online Gaming Platform
 
-Welcome to **TechStore**, a secure and virus-free platform to download or play games online! TechStore offers a wide variety of games across multiple genres, with both download and online play options. With a powerful admin panel and security features, TechStore is designed to provide an enjoyable, safe experience for gaming enthusiasts.
+Welcome to **[TechStore](https://techstore.000.pe)**, a secure and virus-free platform for downloading or playing games online! TechStore provides a wide variety of games across multiple genres, offering both download and online play options. With a powerful admin panel and security features, TechStore is built to provide a safe and enjoyable gaming experience.
 
 **Owner**: M. Zain Ul Abideen  
 📧 **Email**: [zu4425@gmail.com](mailto:zu4425@gmail.com)
@@ -23,24 +23,24 @@ Welcome to **TechStore**, a secure and virus-free platform to download or play g
 
 ## 🎯 About the Project
 
-TechStore is an online gaming platform that allows users to explore, download, and play a vast collection of games for free. With a secure admin panel and robust user authentication, it provides both safety and functionality. Every game available on TechStore is tested to ensure it is virus-free, allowing users to enjoy games without any risk.
+**TechStore** is an online gaming platform that allows users to explore, download, and play a large collection of games for free. With a secure admin panel and strong user authentication, it emphasizes both functionality and safety. Every game available on TechStore is tested for security, so users can enjoy a risk-free experience.
 
 ### Key Highlights:
 
-- **Free Games**: No-cost, easy access to a wide range of games.
-- **Virus-Free**: Every game is tested for security, ensuring a safe experience.
-- **Online Play**: Play games directly on the platform without downloading.
+- **Free Games**: Access a diverse range of games at no cost.
+- **Virus-Free**: All games are vetted for security, ensuring safe play.
+- **Online Play**: Play games directly on the platform without downloads.
 - **User & Admin Security**: Advanced authentication and protection for all users.
 
 ---
 
 ## 🌟 Features
 
-- **Secure Admin Panel**: Enhanced security for managing games and user data.
-- **Category-Based Game Organization**: Action, Racing, Strategy, and more.
-- **Detailed Game Pages**: Game previews, download links, and descriptions.
-- **Dark Mode**: Light and dark themes for optimal user experience.
-- **Responsive Design**: Accessible and user-friendly on all devices.
+- **🔒 Secure Admin Panel**: Admins can manage games and user data securely.
+- **📂 Category-Based Organization**: Games are grouped by genres like Action, Racing, and Strategy.
+- **📄 Detailed Game Pages**: Includes game previews, download links, and descriptions.
+- **🌗 Dark Mode**: Offers light and dark themes for optimal user experience.
+- **📱 Responsive Design**: Fully accessible and user-friendly on all devices.
 
 ---
 
@@ -89,9 +89,9 @@ To get a local copy up and running, follow these steps:
 
 ### Prerequisites
 
-- **Web Server**: Use Apache or NGINX.
+- **Web Server**: Apache or NGINX.
 - **PHP**: Version 7.4 or higher.
-- **MySQL**: For user and game data management.
+- **MySQL**: For managing user and game data.
 
 ### Installation
 
@@ -102,7 +102,7 @@ To get a local copy up and running, follow these steps:
 2. Set up your MySQL database and import the `techstore.sql` file.
 3. Update `config.php` with your database credentials.
 
-4. Start the server and navigate to `localhost/TechStore`.
+4. Start the server and navigate to `localhost/TechStore` to view the project.
 
 ---
 
@@ -111,13 +111,13 @@ To get a local copy up and running, follow these steps:
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP with MySQL
 - **Database**: MySQL
-- **Security**: Enhanced admin and user authentication with strong CSS
+- **Security**: Enhanced admin and user authentication with CSS
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes. All contributions help to enhance the TechStore experience.
+Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. All contributions help improve the TechStore experience.
 
 ---
 
@@ -127,4 +127,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Enjoy TechStore? Give it a ⭐ to show your support!
+Enjoy TechStore? Give it a ⭐ to show your support and [visit the live site](https://techstore.000.pe)!
+
+
