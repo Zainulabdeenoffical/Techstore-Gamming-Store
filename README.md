@@ -1,23 +1,22 @@
-
-
 # 🎮 TechStore - Free Online Gaming Platform
 
-Welcome to **[TechStore](https://techstore.000.pe)**, a secure and virus-free platform for downloading or playing games online! TechStore provides a wide variety of games across multiple genres, offering both download and online play options. With a powerful admin panel and security features, TechStore is built to provide a safe and enjoyable gaming experience.
+Welcome to **[TechStore](https://techstore.000.pe)**, a secure and virus-free platform for downloading or playing games online! TechStore provides a wide variety of games across multiple genres, offering both download and online play options. With a powerful admin panel and robust security features, TechStore is built to provide a safe and enjoyable gaming experience.
 
-**Owner**: M. Zain Ul Abideen  
-📧 **Email**: [zu4425@gmail.com](mailto:zu4425@gmail.com)
+**Owner**: M. Zain Ul Abideen   📧 **Email**: [zu4425@gmail.com](mailto:zu4425@gmail.com)
+
+ **partner:** M Talha Tariq
 
 ---
 
 ## 📜 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [File Structure](#file-structure)
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [About the Project](#-about-the-project)
+- [Features](#-features)
+- [File Structure](#-file-structure)
+- [Getting Started](#-getting-started)
+- [Technologies Used](#-technologies-used)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
@@ -77,7 +76,7 @@ TechStore/
 
 This repository contains various assets and images, such as:
 
-- **Game Thumbnails**: Display game covers like `accessncreed.jfif`, `callofduty.jfif`.
+- **Game Thumbnails**: Display game covers like `assassinscreed.jfif`, `callofduty.jfif`.
 - **Backgrounds**: `background.jpg`, `bg.png`.
 - **Icons**: Check and verification icons `checked_green.png`, `checked_red.png`.
 
@@ -101,7 +100,6 @@ To get a local copy up and running, follow these steps:
    ```
 2. Set up your MySQL database and import the `techstore.sql` file.
 3. Update `config.php` with your database credentials.
-
 4. Start the server and navigate to `localhost/TechStore` to view the project.
 
 ---
@@ -128,5 +126,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 Enjoy TechStore? Give it a ⭐ to show your support and [visit the live site](https://techstore.000.pe)!
+
 
 
