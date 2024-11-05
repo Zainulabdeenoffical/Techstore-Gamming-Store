@@ -1,0 +1,97 @@
+TechStore Gaming Store
+
+Welcome to TechStore Gaming Store – an exciting platform for discovering, rating, and downloading games! Designed with an intuitive, responsive UI, TechStore brings an engaging and smooth experience to gaming enthusiasts.
+
+---
+
+GitHub Repository
+Dive into the code or contribute here: [TechStore Gaming Store](https://github.com/Zainulabdeenoffical/Techstore-Gamming-Store)
+
+---
+
+Creators
+- M Zain Ul Abideen
+- M Talha Tariq
+
+For any questions or collaboration opportunities, feel free to contact us:
+Admin Email: zu4425@gmail.com
+
+---
+
+Project Structure
+
+The project is organized into key folders, making it easy to navigate. Here’s a breakdown:
+
+Admin Folder
+This folder contains the backend interface where admins can manage games and user interactions.
+
+- add-game.html - Form for adding new games to the catalog.
+- manage-games.html - Display of all added games, with options to edit or delete each.
+- admin-dashboard.html - Dashboard for overseeing game entries and user feedback.
+- settings.html - Admin settings for profile management.
+
+Database Structure
+Our database setup includes tables to store game information, user data, and reviews. Here are the main tables:
+
+1. games
+   - game_id - Unique ID for each game.
+   - game_name - Title of the game.
+   - game_image - URL for the game’s image.
+   - game_description - Summary or description of the game.
+   - game_rating - User rating (up to 5 stars).
+   - game_video - Link to gameplay or trailer video.
+   - download_link - Link to download the game.
+   - category - Game genre (e.g., Action, Adventure).
+
+2. users
+   - user_id - Unique ID for each user.
+   - username - User’s chosen username.
+   - email - User’s email address.
+   - password_hash - Securely hashed password.
+
+3. reviews
+   - review_id - Unique ID for each review.
+   - user_id - Reference to the user submitting the review.
+   - game_id - Reference to the reviewed game.
+   - rating - Star rating provided by the user.
+   - comment - User’s review text.
+
+4. downloads
+   - download_id - Unique ID for each download.
+   - user_id - ID of the user downloading the game.
+   - game_id - ID of the downloaded game.
+   - download_date - Date and time of download.
+
+---
+
+Features
+
+- Game Listings by Category - Games are organized by genre, with detailed descriptions, ratings, and videos.
+- Admin Dashboard - Powerful tools for managing games, user feedback, and site content.
+- User Reviews - Users can leave feedback and rate games, fostering community interaction.
+- Responsive Design - Enjoy a smooth experience on desktops, tablets, and mobile devices.
+- Animations with jQuery and CSS - Enhanced UI elements, including download buttons and ratings.
+
+---
+
+Technology Stack
+
+- Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap
+- Backend: PHP
+- Database: MySQL (configured via XAMPP)
+
+---
+
+Installation and Setup
+
+1. Clone the repository:
+   
+git clone https://github.com/Zainulabdeenoffical/Tecstore-Gamming-Store.git
+
+2. Set up the database with the SQL scripts in the Database Folder.
+3. Configure your PHP environment in XAMPP with MySQL credentials.
+4. Run the project and explore the Admin Dashboard to manage games and user interactions.
+
+---
+
+Happy gaming! Enjoy exploring TechStore Gaming Store and feel free to reach out for any support or contributions. just add emojis 
