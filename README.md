@@ -96,8 +96,8 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TechStore.git
-   ```
+   git clone https://github.com/Zainulabdeenoffical/Techstore-Gamming-Store.git
+      ```
 2. Set up your MySQL database and import the `techstore.sql` file.
 3. Update `config.php` with your database credentials.
 4. Start the server and navigate to `localhost/TechStore` to view the project.
